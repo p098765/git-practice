@@ -1,1 +1,8 @@
-dddd
+touch b.txt
+git status
+git add .
+git commit -m "b.txt"
+
+git log --oneline
+
+git push origin master
